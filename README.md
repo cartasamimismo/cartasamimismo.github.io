@@ -7,6 +7,13 @@ bundle exec jekyll serve
 # => Now browse to http://localhost:4000
 ```
 
+# SSH issues
+
+1. `nano ~/.ssh/config`
+2. Comment out the main entry
+3. Make your commits
+4. Put it back to how it was before
+
 # Creating posts
 
 To create a post, add a file to your _posts directory with the following format:
