@@ -3,7 +3,7 @@ layout: post
 title:  "El miedo de hablar en otra lengua"
 ---
 
-Porque tenemos miedo de hablar en otra lengua? Vamos a profundizar en ese tema y darte consejos accionable.
+Porque tenemos miedo de hablar en otra lengua? Vamos a profundizar en este tema y darte consejos prácticos.
 
 El artículo consiste en 4 partes:
 1. **El miedo de hablar** - como sentimos con el miedo
@@ -24,18 +24,18 @@ Tal vez tengas pensamientos como:
 * La gente va a juzgarme
 * Voy a decir algo ineducado
 
-Y lo malo es que cuando hablas así contigo mismo tu rendamiento va a ser peor. Estás gastando energía en la preocupación en lugar de la aprendizaje. Más sobre eso después.
+Y lo malo es que cuando hablas así contigo mismo tu rendimiento va a ser peor. Estás gastando energía en la preocupación en lugar de la aprendizaje. Más sobre eso después.
 
 ## 2. La raíz del miedo
 
 Que es común en todos los pensamientos anteriores? La opinion de los demás.
 Estamos dando mucha importancia de la opinion de los demás.
 
-**El temor viene de la percepción de los demás.** No viene de tu rendimiento en la idioma. Haz un repaso de los puntos anteriores y piensa si sentirás el mismo miedo si nadie puede juzgarte o decir algo malo en respuesta.
+**El temor viene de la percepción de los demás.** No viene de tu rendimiento en la idioma. Haz un repaso de los puntos anteriores y piensa si sentirías el mismo miedo si nadie puede juzgarte o decir algo malo en respuesta.
 
 Mi viaje a este entendimiento fue así:
 * Tengo miedo que no puedo hablar o entender bien
-* Porque tenemos miedo? No queremos cometer errores enfrente de otras personas y sentir vergüenza
+* Porque tengo miedo? No quiero cometer errores enfrente de otras personas y sentir vergüenza
 * Porque no quiero cometer errores? Había puesto mis estándares demasiados altos
 * Porque la barre está puesto tan alta? Quiero ser impresionante
 * Porque quiero ser impresionante? Estoy buscando la aprobación de la gente
@@ -44,7 +44,7 @@ Mi viaje a este entendimiento fue así:
 Cuando entiendes que la raíz es que estás preocupado por la opinion de las demás...
 puedes también darte cuenta de que la opinion de las demás está fuera de tu control.
 
-Si continuamos a intentar a alcanzar los estándares tan alto, vamos a caer en la trampa de autocastigarnos por cada error. Y los errors forman partes del processo de aprendizaje. En otras palabras, vas a odiar el processo.
+Si seguimos tratando de alcanzar los altos estándares, vamos a caer en la trampa de autocastigarnos por cada error. Y los errors forman partes del processo de aprendizaje. En otras palabras, vas a odiar el processo.
 
 ## 3. Las cosas dentro de tu control
 
@@ -54,13 +54,11 @@ El problema es que **pensamos que necesitamos hablar muy bien** todo el tiempo. 
 
 La lengua es una manera de comunicarse, por eso lo más importante es que puedes envíar y recibir mensajes de otras personas. **No necesitas entender absolutamente todo**. Acepta que hay partes que no vas a entender y intenta aprender las palabras que no sabes. La proxima vez vas a entender un poquito más.
 
-La razon que ponemos estándares demasiados altos es que no queremos ser juzgado. Y la única razon por eso es que estamos dando mucha importancia a la opinion de los demás.
-
 Si no tenemos temor de hablar mal, podemos hablar libremente y sin ansiedad o preocupación de lo que otra gente van a decir.
 
 ### Aprovéchate de tus errors
 
-Nadie puede hablar perfectamente. Por eso, vas a cometer errores. En vez de autocastigarte, intenta perdonarte. Ese dicho es muy útil para hablar contigo mismo:
+Nadie puede hablar perfectamente. Por eso, vas a cometer errores. En vez de autocastigarte, intenta perdonarte. Este dicho es muy útil para hablar contigo mismo:
 
 > Te perdono, pero intenta no hacerlo de nuevo.
 
@@ -70,13 +68,16 @@ Entender que **los errors son parte del processo**. Cada vez haces un error, tie
 
 ### Enfocarte
 
-Estás prestando atención a la persona que te hablas? Necesitas recordar que el lenguaje corporal y las expresiones del rostro va a darte contexto. Cuando no entiendes las palabras ese contexto puede ser la llave para entenderlo.
+¿Estás prestando atención a la persona con la que estás hablando? Necesitas recordar que el lenguaje corporal y las expresiones del rostro van a darte contexto. Cuando no entiendes las palabras este contexto puede ser la llave para entenderlo.
 
-¿Dedicas suficiente tiempo a estudiar? Muchas persona cuenta su tiempo aprendiendo en años, y eso es un error. Cuenta en horas, porque una persona que lleva 5 años en aprender francés una hora cada semana tenerá resultados muy diferente a una persona que pasa 10 horas cada semana en los mismos 5 años.
+¿Dedicas suficiente tiempo a estudiar? Muchas persona cuenta su tiempo aprendiendo en años, y eso es un error. Es mejor a contar en horas, porque contar en años no dice nada sobre la intensidad. Considera dos personas aprendiendo el francés - una persona estudiando 2 horas cada semana y la otra 10. Después 5 años cada persona puede decir que lleva 5 años con la idioma, pero los resultados sería muy diferente.
+
+
+Contar en horas, porque una persona que lleva 5 años en aprender francés una hora cada semana tenerá resultados muy diferente a una persona que pasa 10 horas cada semana en los mismos 5 años.
 
 ### Itenta ser amable
 
-Cuando hablas con la gente, tienes control de las palabras que puedes usar. Ser educado y intenta no usar palabrotas sino cuando sepas que es en el contexto correcto. Si has hecho daño a alguien, pide perdon. Es muy facíl a tranducir mal, y muchas veces es muy gracioso!
+Cuando hablas con la gente, tienes control de las palabras que puedes decir. Ser educado y intenta no usar palabrotas sino cuando sepas que es en el contexto correcto. Si has hecho daño a alguien, pide perdon. Es muy facíl a traducir mal, y muchas veces es muy gracioso!
 
 ### 4. El resultado
 
@@ -85,11 +86,13 @@ Mucha genta ha puesto muchísimo efuerzo en cosas sin recibir los resultados que
 
 Hay cosas fuera de tu control como:
 * La reacción de la persona
-* El entorno de que habla en (una discoteca es mucho más difícil que un restaurante)
-* La velocidad de hablar de la persona
-* El accento de la persona
+* El entorno en el que hablas (una discoteca es mucho más difícil que un restaurante)
+* La velocidad con la que la persona habla
+* El acento de la persona
 
 No vas a entender todo. Y no entender todo no es una falla. Es simplemente otra oportunidad de aprender algo nuevo.
 
-Intenta internalizar ese dicho:
+Intenta internalizar este dicho:
 > Mi rendimiento en ese momento no es un reflejo de mi valía
+
+*¡Gracias por leer este artículo!*
