@@ -76,7 +76,7 @@ Estás prestando atención a la persona que te hablas? Necesitas recordar que el
 
 ### Itenta ser amable
 
-Cuando hablas con la gente, tienes control de las palabras que puedes usar. Ser educado y intenta no usar palabrotas sino cuando sepas que es en el contexto correcto. Si has hecho daño a alguien, pide perdon. Es muy facil a hacer maltraducciones, y muchas vecez son muy graciosos!
+Cuando hablas con la gente, tienes control de las palabras que puedes usar. Ser educado y intenta no usar palabrotas sino cuando sepas que es en el contexto correcto. Si has hecho daño a alguien, pide perdon. Es muy facíl a tranducir mal, y muchas veces es muy gracioso!
 
 ### 4. El resultado
 
