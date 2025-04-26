@@ -1,0 +1,19 @@
+# Setup
+title:               Cartas a mí mismo    
+url:                 
+baseurl:             
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              
+  url:               
+  email:             
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+google_analytics_id: #UA-XXXX-Y
